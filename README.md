@@ -497,7 +497,7 @@ magic -T /home/kunalg123/Desktop/work/tools/openlane_working_dir/pdks/sky130A/li
 
 
 ![268436734-e91690d9-ab46-40d7-bb90-919513648956](https://github.com/Shrachinag/pes_pd/assets/119600435/e00e3913-b108-43a5-84ab-f657f525011e)
-
+![image](https://github.com/Shrachinag/pes_pd/assets/119600435/5aaa318f-d4ca-4d72-97be-fbeb4005d2de)
 
 ## Libraary Binding and Placement
 
